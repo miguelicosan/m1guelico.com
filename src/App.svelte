@@ -10,8 +10,8 @@
 
 <main>
 	<Header />
-	<Presentation />
 	<Skills />
+	<Presentation />
 	<Projects />
 	<Contact />
 	<Blog />
